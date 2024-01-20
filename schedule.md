@@ -50,6 +50,7 @@ Cool open source books:
     - Tech/Vendors
 - Health Information Systems Components and Department Sub-systems // Types of software systems and services: [https://www.beckershospitalreview.com/finance/the-31-best-rcm-tools-per-klas.html]
     - Medical and Health Records (EMR, EHR) - Epic, Cerner 
+        - Adoption: [https://www.healthit.gov/sites/default/files/2022-03/chart.PNG](https://www.healthit.gov/sites/default/files/2022-03/chart.PNG)
     - Patient Portals (PHR) - MyChart, MyHealth, etc. (typically tied to EMR/EHR)
     - Patient Monitoring (RPM) - 
     - Customer Engagement (CRMs) - 
@@ -65,6 +66,8 @@ Cool open source books:
     - Supply Chain/Medical Equipement: SAP, Oracle, Mkesson, Securitas Healthcare MobileView (hardware and software);
     - Clinical Trials (CROs): IQVIA, Parexel, LabCorp
     - Analytics and Reporting: Tableau, PowerBI 
+- There are a lot of these systems - cost a good chunk of money 
+    - https://www.definitivehc.com/resources/healthcare-insights/average-it-expenses-us-hospitals 
 - Current challenges of HIS (Current challenges in health information technology–related patient safety) 
     - Design and Development challenges
         1. Developing models, methods, and tools to enable risk assessment
@@ -241,6 +244,7 @@ Cool open source books:
     - Health Data Exchange Standards
     - Terminology Standards
     - Health Information Exchanges
+        - Participation by the numbers: [https://www.healthit.gov/data/quickstats/electronic-health-information-exchange-hospitals](https://www.healthit.gov/data/quickstats/electronic-health-information-exchange-hospitals)
     - Health Information Exchanges, Data Aggregation and Population Health
 ## 12. Cloud Computing (AWS, Azure, GCP) for Systems 
 - Cloud providers (AWS, Azure, GCP, etc.)
