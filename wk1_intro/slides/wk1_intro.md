@@ -1,9 +1,9 @@
 ---
-marp: true
+marp: false
 theme: default
 class: 
   - lead
-  - invert
+
 ---
 
 # Intro Day
@@ -125,41 +125,70 @@ How many people have jobs linedup?
 ## HIS Components Continued...
 - **Monitoring and Engagement**
   - Remote Patient Monitoring: RPM
-    -   
+    - traditional: Fitbit, Apple Watch, etc.
+    - non-traditional: remote patient monitoring devices
   - Customer Relationahip Managers: CRMs
     - non-traditional; SalesForce 
+  - issues: 
+    - coding / billing (CPT codes)
+    - patient engagement 
+  - reviews: 
+    - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5240011/ 
+    - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9673001/ 
+    - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8388293/ 
 
 ---
 
 ## HIS Components Continued...
 - **Management**
-  - ERPs, PMS - SalesForce, Hubspot, Oracle, SAP
+  - Enterprise Resource Planning (ERPs), Patient Management Systems (PMS) - SalesForce, Hubspot, Oracle, SAP
+  - Core functions may cover via integrations: 
+    - Supply chain management (SCM)
+    - Human resource management (HRM)
+    - Customer relationship management (CRM)
+    - Compliance and Reporting 
+    - Clinical Information Systems (CIS) - EMR, RIS, LIS 
+  - Articles: 
+    - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8675769/pdf/pone.0260798.pdf 
 
 ---
 ## HIS Components Continued...
 - **Medications and Labs**
-  - E-prescribing, PBMs, LIS - Surescripts, Sunquest
+  - E-prescribing - Surescripts
+  - Pharmacy Benefit Managers (PBMs) - CVS, Express Scripts, OptumRx
+    - Be be involed in drug pricing, formulary, payment processing, providing some clinical services, data analysis
+  - Lab Information Systems (LIS) - Sunquest, Cerner, Epic
+    - Focus on lab workflow, data management, and data analysis for labs 
 
 ---
 ## HIS Components Continued...
-- **Scheduling and Imaging**
-  - Patient, Staff, Credentialing, RIS, PACS
+- **Scheduling and Credentialing**
+    - Scheduling, Patient - Phreesia, Yosi 
+    - Scheduling, Staff - QGenda Nurse and Staff Scheduling
+    - Credentialing - ASM MD-Staff
 
 ---
 
 ## HIS Components Continued...
 - **Billing and Revenue**
-  - RCM, Claims/Insurance
+  - Revenue Cycling Management (RCM): involved with billing, claims, insurance, etc.
+    - Epic, Cerner, Allscripts, AthenaHealth, eClinicalWorks, NextGen, etc.
+    - They all have their own RCM tools
+  - Claims/Insurance - Utilization Management (UM)
 
 ---
 ## HIS Components Continued...
 - **Supply Chain and Clinical Trials**
+- Supply Chain Management (SCM)
+  - Inventory management, purchasing, and distribution
   - SAP, Oracle, IQVIA, Parexel
 
 ---
 ## HIS Components Continued...
 - **Analytics**
+- Business Intelligence (BI) and Data Warehousing (DW)
   - Tableau, PowerBI
+  - Snowflake, Redshift, BigQuery (cloud based)
 
 ---
 ## HIS Components Continued...
